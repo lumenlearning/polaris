@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/polaris",
+  "name": "@lumen/polaris",
   "description": "Shopify’s product component library",
   "version": "1.12.2",
   "private": false,
